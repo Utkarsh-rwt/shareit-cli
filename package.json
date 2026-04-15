@@ -1,0 +1,23 @@
+{
+  "name": "wifi-share-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "shareit": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.15.0",
+    "express": "^5.2.1",
+    "inquirer": "^13.4.1",
+    "multer": "^2.1.1",
+    "yargs": "^18.0.0"
+  }
+}
