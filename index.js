@@ -5,7 +5,8 @@ const app = express();
 const axios  = require("axios");
 // const yargs = require("yargs");
 const inquirer = require("inquirer").default;
-const send = require(".src/send.js")
+const send = require("./src/send.js")
+const recieve =  require("./src/recieve")
 
 // Wrap code in async function to use await
 async function main() {
