@@ -3,6 +3,14 @@
 Shareit CLI is a local network file transfer tool for Node.js.
 It helps you send a file or folder from one machine to another on the same Wi-Fi or LAN.
 
+## Tech used
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Inquirer](https://img.shields.io/badge/Inquirer-4B32C3?style=for-the-badge&logo=inquirer&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Archiver](https://img.shields.io/badge/Archiver-2C2D72?style=for-the-badge&logo=files&logoColor=white)
+
 ## How it works
 
 1. The sender resolves the input path and checks file system metadata.
